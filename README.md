@@ -319,6 +319,7 @@ plt.show()
 1. https://github.com/BytesOfIntelligences
 2. https://www.datacamp.com/tutorial/introduction-to-activation-functions-in-neural-networks
 3. https://www.analyticsvidhya.com/blog/2021/04/activation-functions-and-their-derivatives-a-quick-complete-guide/
+4. https://www.geeksforgeeks.org/understanding-activation-functions-in-depth/
 
 
 
